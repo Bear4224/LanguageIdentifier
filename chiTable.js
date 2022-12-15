@@ -3,7 +3,7 @@ chiTable = {
     "French" : 0,
     "German" : 0,
     "Spanish" : 0,
-    "Portugese" : 0,
+    "Portuguese" : 0,
     "Esperanto" : 0,
     "Italian" : 0,
     "Turkish" : 0,
